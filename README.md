@@ -1,1 +1,235 @@
-# color
+<html> 
+ <head> 
+  <title>Trading Club</title> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer"> 
+  <link rel="stylesheet" href="style.css">
+  <style>
+ </style> 
+ </head> 
+ <body> 
+  <div class="bg"> 
+   <header> 
+    <nav> <i class="fa-solid fa-arrow-left-long arrow"></i> 
+     <img class="logo" src="https://media-hosting.imagekit.io/b54976a639bf49fd/images__2_-removebg-preview%20(3).png?Expires=1840595958&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=mG0n6otuwjObbzqSCEklQFDvL-f9TGIMQNvng87cgb9nwW88-ijcLyGabDNDml7Z2hN6dSsmzYgX0XQ-tNmjXtulkqQ2cX3aimqGEF4Kryi49QUFBNZ6aA9g6Fsok-ybqAPVBh7OX5WuNrmskNDrO1Nx75LqlHg3D6UTqxq~azaNZ7t3GSjJ7iiB1BT-NAbTmQ5~vWR29cA1TTgIkU0IfWvblXRp0ph5FLVaPqsi~WH7RnS8N4oouIfrF~-zNVWo~RrnbPiGYVTxNDKog8v8FpSGSNKhvRRfpV2C2viClPE8pxeXoP8gY~8WqeFMjA~gV48gpu7iqKYWohWB6FcrNA__"> 
+     <div class="logoo"></div> 
+     <h1>TRADING CLUB</h1> <i class="fa-solid fa-headset support"></i> <i class="fa-solid fa-volume-high volume"></i> 
+    </nav> 
+   </header> 
+   <div class="container-1"> 
+    <div class="refresh-move"> 
+     <p class="money">₹1,00,000</p> <i class="fa-solid fa-rotate refresh"></i> 
+    </div> <i class="fa-solid fa-wallet wall-icon"></i> 
+    <p class="pra">Wallet balance </p> 
+    <div class="withdrawal">
+      Withdrawal 
+    </div> 
+    <div class="deposit">
+      Deposit 
+    </div> 
+   </div> 
+   <div class="container-2"> <i class="fa-solid fa-volume-low detail-valu"></i> 
+    <div class="details">
+      If you have not received your withdrawal within 3 days, please contact our self-service 
+    </div> <button class="detail-btn"> 🔥 Detail</button> 
+   </div> 
+   <div class="container-3"> 
+    <div tabindex="1" class="wingo-1"> 
+     <img class="img-win" src="https://media-hosting.imagekit.io/c1d035c3894547d2/IMG_20250430_185514__1_-removebg-preview%20(1).png?Expires=1840629099&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=HdD5gvikXxwfASpRcuOCnxkH1Z~8r6Tyw6B8S4m2x5RbStGxfm4hOz56qQEoEJltt0~G1HsbGgQegIySkVtrZN5YBN206icui69LkRboplWEX9lyOIsgHzv3B6DzP4BeUJtevXs0cybxGm1hDZtczSprrLaNOJAfHwcfuayZ~71ZxOfKsGSKQHc4eqBwch0ruptPFkAh5sZvky1aLX-pFAuqzg7WTrwDw8jtPBKmJhqNMUqL8E2aC98524RhqnFTEOhyDWUMZsHcbg-CApUgzppmbOkGYDpw-Rw7EmWheUAlSX7r3vzNoSbdJ6ure6arGv3HuzrvofJtKlXvdeEMiA__">Win Go 30Sec 
+    </div> 
+    <div tabindex="1" class="wingo-1"> 
+     <img class="img-win" src="https://media-hosting.imagekit.io/c1d035c3894547d2/IMG_20250430_185514__1_-removebg-preview%20(1).png?Expires=1840629099&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=HdD5gvikXxwfASpRcuOCnxkH1Z~8r6Tyw6B8S4m2x5RbStGxfm4hOz56qQEoEJltt0~G1HsbGgQegIySkVtrZN5YBN206icui69LkRboplWEX9lyOIsgHzv3B6DzP4BeUJtevXs0cybxGm1hDZtczSprrLaNOJAfHwcfuayZ~71ZxOfKsGSKQHc4eqBwch0ruptPFkAh5sZvky1aLX-pFAuqzg7WTrwDw8jtPBKmJhqNMUqL8E2aC98524RhqnFTEOhyDWUMZsHcbg-CApUgzppmbOkGYDpw-Rw7EmWheUAlSX7r3vzNoSbdJ6ure6arGv3HuzrvofJtKlXvdeEMiA__">Win Go 1Min 
+    </div> 
+    <div tabindex="1" class="wingo-1"> 
+     <img class="img-win" src="https://media-hosting.imagekit.io/c1d035c3894547d2/IMG_20250430_185514__1_-removebg-preview%20(1).png?Expires=1840629099&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=HdD5gvikXxwfASpRcuOCnxkH1Z~8r6Tyw6B8S4m2x5RbStGxfm4hOz56qQEoEJltt0~G1HsbGgQegIySkVtrZN5YBN206icui69LkRboplWEX9lyOIsgHzv3B6DzP4BeUJtevXs0cybxGm1hDZtczSprrLaNOJAfHwcfuayZ~71ZxOfKsGSKQHc4eqBwch0ruptPFkAh5sZvky1aLX-pFAuqzg7WTrwDw8jtPBKmJhqNMUqL8E2aC98524RhqnFTEOhyDWUMZsHcbg-CApUgzppmbOkGYDpw-Rw7EmWheUAlSX7r3vzNoSbdJ6ure6arGv3HuzrvofJtKlXvdeEMiA__">Win Go 3Min 
+    </div> 
+    <div tabindex="1" class="wingo-1"> 
+     <img class="img-win" src="https://media-hosting.imagekit.io/c1d035c3894547d2/IMG_20250430_185514__1_-removebg-preview%20(1).png?Expires=1840629099&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=HdD5gvikXxwfASpRcuOCnxkH1Z~8r6Tyw6B8S4m2x5RbStGxfm4hOz56qQEoEJltt0~G1HsbGgQegIySkVtrZN5YBN206icui69LkRboplWEX9lyOIsgHzv3B6DzP4BeUJtevXs0cybxGm1hDZtczSprrLaNOJAfHwcfuayZ~71ZxOfKsGSKQHc4eqBwch0ruptPFkAh5sZvky1aLX-pFAuqzg7WTrwDw8jtPBKmJhqNMUqL8E2aC98524RhqnFTEOhyDWUMZsHcbg-CApUgzppmbOkGYDpw-Rw7EmWheUAlSX7r3vzNoSbdJ6ure6arGv3HuzrvofJtKlXvdeEMiA__">Win Go 5Min 
+    </div> 
+   </div> 
+  </div> 
+  <div> 
+   <div class="container-4"> 
+    <div class="how">
+      How to play 
+    </div> 
+    <p class="ins-1">Win Go 30s</p> 
+    <div class="res-num1">
+      Images 
+    </div> 
+    <div class="con-4 cir1"></div> 
+    <div class="con-4 cir2"></div> 
+    <hr class="hr-1"> 
+    <div class="ins-2">
+      Time Remaining 
+    </div> 
+    <div class="timer"> 
+     <div class="min-1 timer-val">
+       0 
+     </div> 
+     <div class="min-2 timer-val">
+       0 
+     </div> 
+     <div class="timer-val timer-colon">
+       : 
+     </div> 
+     <div class="sec-1 timer-val">
+       3 
+     </div> 
+     <div class="sec-2 timer-val">
+       0 
+     </div> 
+    </div> 
+    <p class="value">20250429100052267</p> 
+   </div> 
+   <div class="container-5"> 
+    <div class="box-main"> 
+     <div class="main-1 main--1">
+       Green 
+     </div> 
+     <div class="main-1 main-2">
+       Violet 
+     </div> 
+     <div class="main-1 main-3">
+       Red 
+     </div> 
+    </div> 
+    <div class="cl-num"> 
+     <img class="cl-image" src="https://raw.githubusercontent.com/Aniket27717/num-imgs/refs/heads/main/IMG_20250501_155935%20(1).jpg"> 
+     <img class="cl-image" src="https://raw.githubusercontent.com/Aniket27717/num-imgs/refs/heads/main/IMG_20250501_160019%20(1).jpg"> 
+     <img class="cl-image" src="https://raw.githubusercontent.com/Aniket27717/num-imgs/refs/heads/main/IMG_20250501_160118%20(1).jpg"> 
+     <img class="cl-image" src="https://raw.githubusercontent.com/Aniket27717/num-imgs/refs/heads/main/IMG_20250501_160230%20(1).jpg"> 
+     <img class="cl-image" src="https://raw.githubusercontent.com/Aniket27717/num-imgs/refs/heads/main/IMG_20250501_160257%20(1).jpg"> 
+     <img class="cl-image img5" src="https://raw.githubusercontent.com/Aniket27717/num-imgs/refs/heads/main/IMG_20250501_160317%20(1).jpg"> 
+     <img class="cl-image img6" src="https://raw.githubusercontent.com/Aniket27717/num-imgs/refs/heads/main/IMG_20250501_160355%20(1).jpg"> 
+     <img class="cl-image img7" src="https://raw.githubusercontent.com/Aniket27717/num-imgs/refs/heads/main/IMG_20250501_160428%20(1).jpg"> 
+     <img class="cl-image img8" src="https://raw.githubusercontent.com/Aniket27717/num-imgs/refs/heads/main/IMG_20250501_160445%20(1).jpg"> 
+     <img class="cl-image img9" src="https://raw.githubusercontent.com/Aniket27717/num-imgs/refs/heads/main/IMG_20250501_160525%20(1).jpg"> 
+    </div> 
+    <div class="num-x"> 
+     <div class="random">
+       Random 
+     </div> 
+     <p tabindex="1" class="x x1">x1</p> 
+     <p tabindex="1" class="x x5">x5</p> 
+     <p tabindex="1" class="x x10">x10</p> 
+     <p tabindex="1" class="x x20">x20</p> 
+     <p tabindex="1" class="x x50">x50</p> 
+     <p tabindex="1" class="x x100">x100</p> 
+    </div> 
+    <div class="sb"> 
+     <div class="big">
+       Big 
+     </div> 
+     <div class="small">
+       Small 
+     </div> 
+    </div> 
+    <div class="div-service"> 
+     <img class="service" src="https://media-hosting.imagekit.io/8cbe2238be6740f8/icon_sevice-9f0c8455.png?Expires=1840604317&amp;Key-Pair-Id=K2ZIVPTIP2VGHC&amp;Signature=JDe6q1xJznXBRLc8gDqfNO3mWRGH1wY0O1caRqdXyqVAQ9K~-VjEi99QXvF-Dt2CZR4~ovwUM7sNNCY7ay3AJ2xtRDj5WgJCvM7ZhznINwQtB2fiLNqGY3T5lYs5WxJ0GQR8OJjz8Si-aqExWxctctyxIdgJLfMXrvcgF1uIYbqeOW3~EaF4qmns7GIQNUGOCezv163gfHCXi~76MCODf2AZB1ue3rAsHe4kF5JbflEW3vXFe~iYnu~-mZvm7ZK7Qf9UneOmGktTbEFB7l3l5VpO5PRRzt-b1oX8-lEf9MDboh4xfPhbx1wyCN-jJNVvlP6fHQ-g799pU5c~jyi~ag__"> 
+    </div> 
+    <div class="box"> 
+     <div tabindex="1" class="box-1">
+       Game history 
+     </div> 
+     <div tabindex="1" class="box-1">
+       Chart 
+     </div> 
+     <div tabindex="1" class="box-1">
+       My history 
+     </div> 
+    </div> 
+    <div class="history"> 
+     <div class="his-nav"> 
+      <p class="item-period">Period</p> 
+      <p class="item-number">Number</p> 
+      <p class="item-bs">Big Small</p> 
+      <p class="item-color">Color</p> 
+     </div> 
+     <div class="result result-2"> 
+      <p class="in-1 ">202505011000505444</p> 
+      <p class="in-2 n gradient-text-vg">5</p> 
+      <p class="in-3 smbi">Small</p> 
+      <div class="sp"> <span class="in-4g "></span> <span class="in-4v "></span> 
+      </div> 
+     </div> 
+     <div class="result result-2"> 
+      <p class="in-1 ">202505011000505443</p> 
+      <p class="in-2 n gradient-text-vr">0</p> 
+      <p class="in-3 smbi">Big</p> 
+      <div class="sp"> <span class="in-4r"></span> <span class="in-4v"></span> 
+      </div> 
+     </div> 
+     <div class="result result-2"> 
+      <p class="in-1 ">202505011000505442</p> 
+      <p class="in-2 n n-g">1</p> 
+      <p class="in-3 smbi">Big</p> 
+      <div class="sp"> <span class="in-4r"></span> 
+      </div> 
+     </div> 
+     <div class="result result-2"> 
+      <p class="in-1 ">202505011000505441</p> 
+      <p class="in-2 n n-r">2</p> 
+      <p class="in-3 smbi">Small</p> 
+      <div class="sp"> <span class="in-4g"></span> <span class="in-4v"></span> 
+      </div> 
+     </div> 
+     <div class="result result-2"> 
+      <p class="in-1 ">202505011000505440</p> 
+      <p class="in-2 n n-g">3</p> 
+      <p class="in-3 smbi">Small</p> 
+      <div class="sp"> <span class="in-4r"></span> 
+      </div> 
+     </div> 
+     <div class="result result-2"> 
+      <p class="in-1 ">202505011000505439</p> 
+      <p class="in-2 n n-r">4</p> 
+      <p class="in-3 smbi">Big</p> 
+      <div class="sp"> <span class="in-4g"></span> 
+      </div> 
+     </div> 
+     <div class="result result-2"> 
+      <p class="in-1 ">202505011000505438</p> 
+      <p class="in-2 n n-r">6</p> 
+      <p class="in-3 smbi">Big</p> 
+      <div class="sp"> <span class="in-4g"></span> 
+      </div> 
+     </div> 
+     <div class="result result-2"> 
+      <p class="in-1 ">202505011000505437</p> 
+      <p class="in-2 n n-g">7</p> 
+      <p class="in-3 smbi">Big</p> 
+      <div class="sp"> <span class="in-4r "></span> <span class="in-4v"></span> 
+      </div> 
+     </div> 
+     <div class="result result-2"> 
+      <p class="in-1 ">202505011000505436</p> 
+      <p class="in-2 n n-r">8</p> 
+      <p class="in-3 smbi">Small</p> 
+      <div class="sp"> <span class="in-4r"></span> 
+      </div> 
+     </div> 
+     <div class="result result-2"> 
+      <p class="in-1 ">202505011000505435</p> 
+      <p class="in-2 n n-g">9</p> 
+      <p class="in-3 smbi">Big</p> 
+      <div class="sp"> <span class="in-4r"></span> <span class="in-4v"></span> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="page-div"> 
+     <div class="page"> <span tabindex="1" class="ar-left"> <i class="fa-solid fa-chevron-left"></i></span> 
+      <p class="page-no">1/1000</p> <span tabindex="1" class="ar-right"> <i class="fa-solid fa-chevron-right"></i> </span> 
+     </div> 
+    </div> 
+   </div> 
+  </div> 
+  <div class="cong"> 
+   <div class="cong-2">
+     Congratulations 
+   </div> <span class="sb-result">Small-Big</span> <span class="number-result">0-9</span> <span class="g-v-r-color">Green-vio-red</span> <button class="cong-3">×</button> 
+  </div> <!--input--> 
+  <script src="script.js">
+      
+  </script> 
+ </body>
+</html>
